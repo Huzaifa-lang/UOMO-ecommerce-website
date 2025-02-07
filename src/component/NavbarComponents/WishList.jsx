@@ -6,7 +6,7 @@ import { Navigate, NavLink, useNavigate } from "react-router";
 
 
 
-import "../css/Navbar/Wishlist.css";
+import "../../css/Navbar/Wishlist.css";
 function WishList() {
   const navigate = useNavigate()
   
